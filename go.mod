@@ -1,4 +1,4 @@
-module github.com/LeeEirc/elfinder
+module github.com/haoranzeus/elfinder
 
 go 1.12
 
